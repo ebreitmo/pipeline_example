@@ -1,3 +1,4 @@
 Flask
 waitress
 flake8
+pylint
